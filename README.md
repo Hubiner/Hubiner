@@ -29,7 +29,7 @@ Sou um desenvolvedor entusiasta, apaixonado por resolver problemas e criar solu�
 ## Linguagens e Ferramentas
 Aqui estão algumas das linguagens de programação e ferramentas com as quais estou familiarizado:
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs_count=8&theme=dark)](https://github.com/seu_usuario)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs_count=8&theme=dark)](https://github.com/Hubiner)
 
 ## Estatísticas do GitHub
 Aqui está uma visão geral das minhas estatísticas no GitHub:
