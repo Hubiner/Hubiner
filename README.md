@@ -40,6 +40,8 @@ Aqui está uma visão geral das minhas estatísticas no GitHub:
 
 ![Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=dark&hide_border=false&border_radius=10&border=FFFFFF)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=dark" alt="Estatísticas do GitHub" style="border: 2px solid white; border-radius: 5px;">
+
 ## Entre em Contato
 Se você está interessado em colaborar em projetos emocionantes, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo:
 
