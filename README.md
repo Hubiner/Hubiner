@@ -36,7 +36,9 @@ Aqui está uma visão geral das minhas estatísticas no GitHub:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hubiner&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=dark&hide_border=true&border_radius=10&border=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=dark&hide_border=false&border_radius=10&border=FFFFFF)](https://git.io/streak-stats)
+
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=dark
 
 ## Entre em Contato
 Se você está interessado em colaborar em projetos emocionantes, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo:
