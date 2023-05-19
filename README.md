@@ -39,8 +39,12 @@ Aqui está uma visão geral das minhas estatísticas no GitHub:
 ## Entre em Contato
 Se você está interessado em colaborar em projetos emocionantes, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo:
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)](https://github.com/seu-username)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=8&theme=dark)](https://github.com/seu-username)
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-username&bg_color=ffffff&color=4c71f2&line=4c71f2&point=ffffff&area=true&hide_border=true)](https://github.com/seu-username)
 
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=seu-username&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 Espero que você encontre algo interessante aqui! Fique à vontade para explorar meus repositórios. Vamos criar coisas incríveis juntos!
