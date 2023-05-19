@@ -38,7 +38,7 @@ Aqui está uma visão geral das minhas estatísticas no GitHub:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=dark&hide_border=false&border_radius=20&border=FFFFFF)](https://git.io/streak-stats)
 
-![Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seu-username&theme=dark&hide_border=false&border_radius=10&border=FFFFFF)
+![Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=dark&hide_border=false&border_radius=10&border=FFFFFF)
 
 
 ## Entre em Contato
