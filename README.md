@@ -47,7 +47,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender mais e evoluir como de
 Se você quer colaborar em projetos, discutir ideias ou simplesmente trocar uma ideia sobre tecnologia, fique à vontade para me chamar:
 
 - 📧 Email: **gabrielhubiner@gmail.com**
-- 💼 [LinkedIn (adicione o link se tiver)](https://www.linkedin.com/in/SEU-PERFIL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-hubiner/)
 
 ---
 
