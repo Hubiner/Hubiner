@@ -8,7 +8,7 @@ Desenvolvedor em formação | Apaixonado por tecnologia | Explorador do mundo da
 
 ### 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia, sempre buscando aprender mais e evoluir como desenvolvedor. Tenho interesse especial por desenvolvimento web, ciência de dados e automações com Python. Estou sempre disposto a encarar novos desafios, resolver problemas e criar soluções úteis.
+Sou um entusiasta da tecnologia, sempre buscando aprender mais e evoluir como desenvolvedor. Tenho interesse especial por back-end, ciência de dados e automações com Python. Estou sempre disposto a encarar novos desafios, resolver problemas e criar soluções úteis.
 
 - 🌱 Atualmente estudando **Java, Python** e **Banco de Dados**
 - 📚 Focado em **Backend** e conceitos sólidos de programação
