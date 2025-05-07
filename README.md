@@ -1,48 +1,54 @@
-### Hi there 👋
+<h1 align="center">Olá! Eu sou o Gabriel Hubiner 👋</h1>
 
-<!--
-**Hubiner/Hubiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor em formação | Apaixonado por tecnologia | Explorador do mundo da programação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
 
-# Olá, eu sou Gabriel Hubiner! 👋
-<!--
-## Sobre mim
-Sou um desenvolvedor entusiasta, apaixonado por resolver problemas e criar soluções criativas usando a programação. Minha paixão pela tecnologia me levou a explorar várias áreas, como desenvolvimento web, ciência de dados e aprendizado de máquina.
+Sou um entusiasta da tecnologia, sempre buscando aprender mais e evoluir como desenvolvedor. Tenho interesse especial por desenvolvimento web, ciência de dados e automações com Python. Estou sempre disposto a encarar novos desafios, resolver problemas e criar soluções úteis.
 
-- 🔭 Atualmente estou trabalhando em [projeto atual] para aprimorar minhas habilidades em [tecnologias relevantes].
-- 🌱 Estou aprendendo [tecnologias ou conceitos em que você está interessado ou estudando atualmente].
-- 👯 Estou procurando colaborar em projetos de código aberto relacionados a [áreas de interesse].
-- 💬 Pergunte-me sobre [áreas de conhecimento em que você é especialista] ou qualquer coisa relacionada à programação.
-- ⚡ Curiosidade: [uma curiosidade interessante sobre você].
--->
-## Linguagens e Ferramentas
-Aqui estão algumas das linguagens de programação e ferramentas com as quais estou familiarizado:
+- 🌱 Atualmente estudando **Java, Python** e **Banco de Dados**
+- 📚 Focado em **Backend** e conceitos sólidos de programação
+- 💼 Em busca de uma **oportunidade de estágio** na área de desenvolvimento
+- ⚙️ Curioso sobre Clean Architecture, boas práticas e padrões de projeto
+- 📫 Entre em contato: **gabrielhubiner@gmail.com**
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubiner&layout=compact&langs_count=8&theme=dark)](https://github.com/Hubiner)
+---
 
-## Estatísticas do GitHub
-Aqui está uma visão geral das minhas estatísticas no GitHub:
+### 🛠️ Tecnologias e Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hubiner&show_icons=true&theme=dark)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=dark&hide_border=false&border_radius=20&border=FFFFFF)](https://git.io/streak-stats)
+---
 
-![Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=dark&hide_border=false&border_radius=10&border=FFFFFF)
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hubiner&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hubiner&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-## Entre em Contato
-Se você está interessado em colaborar em projetos emocionantes, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=false&border_radius=10&border=FFFFFF" />
+</div>
 
+---
 
-Espero que você encontre algo interessante aqui! Fique à vontade para explorar meus repositórios. Vamos criar coisas incríveis juntos!
+### 🤝 Vamos conversar?
+
+Se você quer colaborar em projetos, discutir ideias ou simplesmente trocar uma ideia sobre tecnologia, fique à vontade para me chamar:
+
+- 📧 Email: **gabrielhubiner@gmail.com**
+- 💼 [LinkedIn (adicione o link se tiver)](https://www.linkedin.com/in/SEU-PERFIL)
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil. Vamos criar algo incrível juntos! ✨</p>
