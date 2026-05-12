@@ -49,7 +49,7 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 
 ## GitHub Overview
 
-[![GitHub streak stats](https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 ![Gabriel Hubiner GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight)
 ![Most used languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight)
