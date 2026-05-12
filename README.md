@@ -1,18 +1,8 @@
-<div align="center">
+![Gabriel Hubiner banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=16)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=16" alt="Gabriel Hubiner banner" />
-
-  <a href="mailto:gabriel.hubiner.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabriel.hubiner.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-hubiner/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Hubiner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://github.com/Hubiner">
-    <img src="https://img.shields.io/badge/GitHub-Hubiner-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-
-</div>
+[![Email badge](https://img.shields.io/badge/Email-gabriel.hubiner.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.hubiner.work@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Gabriel%20Hubiner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hubiner/)
+[![GitHub badge](https://img.shields.io/badge/GitHub-Hubiner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hubiner)
 
 ---
 
@@ -32,21 +22,17 @@ My goal is to keep improving through practical projects, consistent study, and r
 
 ## Tech Stack
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -63,16 +49,10 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 
 ## GitHub Overview
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
-</div>
+![GitHub streak stats](https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8)
 
-<br />
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight" alt="Gabriel Hubiner GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight" alt="Most used languages by repository" />
-</div>
+![Gabriel Hubiner GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight)
+![Most used languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight)
 
 ---
 
@@ -80,21 +60,12 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 
 I am always open to learning, collaborating, and discussing software development, backend projects, Python automation, and career opportunities in tech.
 
-<div align="center">
-
-  <a href="mailto:gabriel.hubiner.work@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-hubiner/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-
-</div>
+[![Send an email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.hubiner.work@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hubiner/)
 
 ---
 
-<div align="center">
-  <strong>Thanks for visiting my profile.</strong>
-  <br />
-  <sub>Always learning, building, and improving one project at a time.<br>✨ Thank you for visiting my profile. Let's create something incredible together! ✨</sub>
-</div>
+**Thanks for visiting my profile.**
+
+Always learning, building, and improving one project at a time.  
+✨ Thank you for visiting my profile. Let's create something incredible together! ✨
