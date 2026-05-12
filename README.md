@@ -1,5 +1,5 @@
 ![Gabriel Hubiner banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=16)
-<center>
+
 [![Email badge](https://img.shields.io/badge/Email-gabriel.hubiner.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.hubiner.work@gmail.com)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Gabriel%20Hubiner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hubiner/)
 [![GitHub badge](https://img.shields.io/badge/GitHub-Hubiner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hubiner)
@@ -49,7 +49,7 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 
 ## GitHub Overview
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+![GitHub streak stats](https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8)
 
 ![Gabriel Hubiner GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight)
 ![Most used languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight)
@@ -67,6 +67,4 @@ I am always open to learning, collaborating, and discussing software development
 
 **Thanks for visiting my profile.**
 
-Always learning, building, and improving one project at a time.  
-✨ Thank you for visiting my profile. Let's create something incredible together! ✨
-</center>
+Always learning, building, and improving one project at a time.
