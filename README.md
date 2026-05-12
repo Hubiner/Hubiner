@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20in%20Progress%20%7C%20Java%20%7C%20Python%20%7C%20Databases&descAlignY=58&descSize=16" alt="Gabriel Hubiner banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=16" alt="Gabriel Hubiner banner" />
 
   <a href="mailto:gabriel.hubiner.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrielhubiner%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+    <img src="https://img.shields.io/badge/Email-gabriel.hubiner.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-hubiner/">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Hubiner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
@@ -35,9 +35,14 @@ My goal is to keep improving through practical projects, consistent study, and r
 <div align="center">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
@@ -91,5 +96,5 @@ I am always open to learning, collaborating, and discussing software development
 <div align="center">
   <strong>Thanks for visiting my profile.</strong>
   <br />
-  <sub>Always learning, building, and improving one project at a time.<br>✨ Obrigado por visitar meu perfil. Vamos criar algo incrível juntos! ✨</sub>
+  <sub>Always learning, building, and improving one project at a time.<br>✨ Thank you for visiting my profile. Let's create something incredible together! ✨</sub>
 </div>
