@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20in%20Progress%20%7C%20Python%20%7C%20Java%20%7C%20Databases&descAlignY=58&descSize=16" alt="Gabriel Hubiner banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:22C55E&height=180&section=header&text=Gabriel%20Hubiner&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Backend%20Developer%20in%20Progress%20%7C%20Java%20%7C%20Python%20%7C%20Databases&descAlignY=58&descSize=16" alt="Gabriel Hubiner banner" />
 
-  <a href="mailto:gabrielhubiner@gmail.com">
+  <a href="mailto:gabriel.hubiner.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-gabrielhubiner%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-hubiner/">
@@ -59,8 +59,8 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 ## GitHub Overview
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hubiner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel Hubiner GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hubiner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight" alt="Gabriel Hubiner GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight" alt="Most used languages by repository" />
 </div>
 
 <br />
@@ -91,5 +91,5 @@ I am always open to learning, collaborating, and discussing software development
 <div align="center">
   <strong>Thanks for visiting my profile.</strong>
   <br />
-  <sub>Always learning, building, and improving one project at a time.</sub>
+  <sub>Always learning, building, and improving one project at a time.<br>✨ Obrigado por visitar meu perfil. Vamos criar algo incrível juntos! ✨</sub>
 </div>
