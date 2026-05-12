@@ -59,14 +59,14 @@ Software quality           Clean code, testing mindset, maintainability, and Git
 ## GitHub Overview
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight" alt="Gabriel Hubiner GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight" alt="Most used languages by repository" />
+  <img src="https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hubiner&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hubiner&theme=tokyonight" alt="Gabriel Hubiner GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hubiner&theme=tokyonight" alt="Most used languages by repository" />
 </div>
 
 ---
